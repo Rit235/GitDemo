@@ -13,9 +13,12 @@
 	<li>Contact us</li>
 	
 	</ul>
+<<<<<<< HEAD
 	<marquee>I love web devlopment</marquee>
+	<marquee> Welcome to session</marquee>
+=======
 	<marquee> Welcome to session</marquee>	
-	<p>I am adding paragraph </p>
-	<p>I am adding paragraph1 </p>
+	
+>>>>>>> ae82fa7b378883b1584bcf140020c4cd64658a13
 </body>
 </html>
